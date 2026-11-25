@@ -8,7 +8,7 @@ An end-to-end Power BI data analytics project examining public transportation pa
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](Dashboard_Preview.png)
+![Dashboard Preview](Dashboard Preview.png)
 
 ---
 
